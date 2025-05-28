@@ -1,0 +1,14 @@
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\bin\Debug\net8.0\investition.exe
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\bin\Debug\net8.0\investition.deps.json
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\bin\Debug\net8.0\investition.runtimeconfig.json
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\bin\Debug\net8.0\investition.dll
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\bin\Debug\net8.0\investition.pdb
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.GeneratedMSBuildEditorConfig.editorconfig
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.AssemblyInfoInputs.cache
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.AssemblyInfo.cs
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.csproj.CoreCompileInputs.cache
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.dll
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\refint\investition.dll
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.pdb
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\investition.genruntimeconfig.cache
+D:\domashka\3 KURS\MatModel\МатМоделированиеПрактика\Распределение инвестиций\investition\investition\obj\Debug\net8.0\ref\investition.dll
