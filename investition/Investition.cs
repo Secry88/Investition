@@ -60,7 +60,7 @@ namespace investition
 
                 for (int k = 0; k < stepCount; k++)
                 {
-                    stepCalc.Add(new int[] {step[i], a, b });
+                    stepCalc.Add(new int[] { a, b });
                     a += step[0];
                     b -= step[0];
                 }
@@ -71,6 +71,46 @@ namespace investition
             {
                 Console.WriteLine(string.Join("\t", item));
             }
+
+            List<int> summPost = new List<int>(summ);
+
+            int index1 = 0;
+            stepCount = 2;
+
+            for (int i = 0; i < summ; i++)
+            {
+                int a = 0, b = 0;
+                int index2 = 0;
+
+                for (int k = 0; k < table.GetLength(0); k++)
+                {
+                    for (int m = 0; m < table.GetLength(1); m++)
+                    {
+                        if (stepCalc[index1][index2] != 0)
+                        {
+                            if (table[k, 0] == stepCalc[index1][index2])
+                            {
+                                a = table[k, table.GetLength(1) - 2];
+                            }
+                        }
+                        else a = 0;
+
+                        if (stepCalc[index1][index2 + 1] != 0)
+                        {
+                            if (table[k, 0] == stepCalc[index1][index2 + 1])
+                            {
+                                b = table[k, table.GetLength(1) - 1];
+                            }
+                        }
+                        else b = 0;
+
+                    }
+                }
+                summPost.Add(a + b);
+                index1++;
+            }
         }
+
     }
 }
+
